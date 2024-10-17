@@ -1,2 +1,3 @@
 # PythPaimon.github.io
- my site
+
+Strona internetowa, zrobiona raczej dla zabawy.
